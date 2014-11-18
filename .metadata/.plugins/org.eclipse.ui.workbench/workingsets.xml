@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416309265765_0" label="BomberMan" name="BomberMan"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416309470044_1" label="D:javaprogram" name="D:javaprogram"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416309535484_2" label="BomberMan1.0" name="BomberMan1.0">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1416309632037_3" label="Window Working Set" name="Aggregate for window 1416309632037"/>
+<mruList name="BomberMan1.0"/>
+<mruList name="D:javaprogram"/>
+<mruList name="BomberMan"/>
+</workingSetManager>
